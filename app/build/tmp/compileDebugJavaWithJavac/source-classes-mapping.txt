@@ -1,0 +1,13 @@
+com/example/confectioneryapplication/UI/LoyaltyFragment.java
+ com.example.confectioneryapplication.UI.LoyaltyFragment
+com/example/confectioneryapplication/MainActivity.java
+ com.example.confectioneryapplication.MainActivity
+ com.example.confectioneryapplication.MainActivity$1
+com/example/confectioneryapplication/UI/HomeFragment.java
+ com.example.confectioneryapplication.UI.HomeFragment
+com/example/confectioneryapplication/BuildConfig.java
+ com.example.confectioneryapplication.BuildConfig
+com/example/confectioneryapplication/UI/AccountFragment.java
+ com.example.confectioneryapplication.UI.AccountFragment
+com/example/confectioneryapplication/UI/ShoppingCartFragment.java
+ com.example.confectioneryapplication.UI.ShoppingCartFragment

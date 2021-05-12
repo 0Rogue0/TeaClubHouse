@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860247848084",
+    "project_id": "confectioneryapplication",
+    "storage_bucket": "confectioneryapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860247848084:android:dee221dcef12069f183081",
+        "android_client_info": {
+          "package_name": "com.example.confectioneryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860247848084-0g7tqrjj72kpfc3ithvkrjnuggrnsm95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.confectioneryapplication",
+            "certificate_hash": "3fb67c942944b82ab81abb3c06c12d44d55ca91f"
+          }
+        },
+        {
+          "client_id": "860247848084-2obbdoh1qcsucr9hq2p2pjl6ql22h1vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHrifoa1xBEN7sV53olsVAZZmZ4Redu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860247848084-2obbdoh1qcsucr9hq2p2pjl6ql22h1vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			 xmlns:tools="http://schemas.android.com/tools"
+			 android:layout_width="match_parent"
+			 android:layout_height="match_parent"
+			 android:id="@+id/root_element"
+			 tools:context=".UI.AccountFragment">
+
+	<LinearLayout
+			android:layout_width="match_parent"
+			android:weightSum="2"
+			android:layout_height="wrap_content"
+			android:layout_margin="15dp"
+			android:layout_marginBottom="20dp"
+			android:orientation="horizontal"
+			android:gravity="bottom|center_horizontal"
+			android:layout_gravity="bottom|center_vertical"
+			android:paddingBottom="20dp"
+			tools:ignore="UselessParent">
+
+		<Button
+				android:text="@string/btnSignIn"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginRight="6dp"
+				android:textColor="@android:color/white"
+				android:background="@drawable/btn_sign_in"
+				android:id="@+id/btnSingIn"
+				android:layout_weight="1"
+				android:layout_marginEnd="6dp"
+				tools:ignore="ButtonStyle"/>
+
+		<Button
+				android:text="@string/btnRegister"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="6dp"
+				android:textColor="@android:color/white"
+				android:background="@drawable/btn_register"
+				android:id="@+id/btnRegister"
+				android:layout_weight="1"
+				android:layout_marginStart="6dp"
+				tools:ignore="ButtonStyle"/>
+	</LinearLayout>
+
+
+</FrameLayout>

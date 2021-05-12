@@ -1,0 +1,4 @@
+com/example/confectioneryapplication/ExampleInstrumentedTest.java
+ com.example.confectioneryapplication.ExampleInstrumentedTest
+com/example/confectioneryapplication/test/BuildConfig.java
+ com.example.confectioneryapplication.test.BuildConfig

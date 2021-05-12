@@ -1,0 +1,4 @@
+#Tue May 11 18:22:12 MSK 2021
+base.0=E\:\\STUDY\\Java_CourseWork_Confectionery-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
